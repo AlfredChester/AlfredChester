@@ -4,11 +4,11 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlfredChester&theme=tokyonight&show_icons=true">
 
-I'm AlfredChester, a middle school student that lives in Shanghai
+I'm AlfredChester, a middle school student who lives in Shanghai
 -   :hammer_and_pick: C++ / JavaScript / Vue / Python/ Java
--   :seedling: Taking courses & doing assignments at FHC
+-   :seedling: Taking courses in @CYEZOI
 -   :man: Pronouns: he/him
--   🌏 <a href="http://alfredoj.natapp1.cc">OnlineJudge</a>
+-   🌏 <a href="http://alfredoj.natapp1.cc">OnlineJudge (deprecated)</a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlfredChester">
