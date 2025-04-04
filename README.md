@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlfredChester&theme=tokyonight&show_icons=true">
 
 I'm AlfredChester, a middle school student who lives in Shanghai
--   :hammer_and_pick: C++ / JavaScript / Vue / Python/ Java
+-   :hammer_and_pick: C++ / JavaScript / Vue / Python / Java
 -   :seedling: Taking courses in @CYEZOI
 -   :man: Pronouns: he/him
 -   🌏 <a href="http://alfredoj.natapp1.cc">OnlineJudge (deprecated)</a>
