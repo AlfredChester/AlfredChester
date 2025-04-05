@@ -2,13 +2,13 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlfredChester&theme=tokyonight&show_icons=true">
 
-I'm AlfredChester, a middle school student who lives in Shanghai
+I'm AlfredChester, a middle school student, currently living in Shanghai.
 -   :hammer_and_pick: C++ / Python / JavaScript;
--   :hammer_and_pick: Contributer of [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/) and [competitive-verifier/competitive-verifier](https://github.com/competitive-verifier/competitive-verifier);
+-   💡 Contributer of [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/) and [competitive-verifier/competitive-verifier](https://github.com/competitive-verifier/competitive-verifier);
 -   :seedling: A high school student in @CYEZOI;
 -   :man: Pronouns: he/him;
 -   🌏 <a href="http://alfredoj.natapp1.cc">OnlineJudge (deprecated)</a>;
--   🌏 Minecraft server: neweden.icu:7777.
+-   😎 Minecraft server: neweden.icu:7777.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlfredChester">
