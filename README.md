@@ -4,7 +4,7 @@
 
 I'm AlfredChester, a middle school student, currently living in Shanghai.
 -   :hammer_and_pick: C++ / Python / JavaScript;
--   💡 Contributer of [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/) and [competitive-verifier/competitive-verifier](https://github.com/competitive-verifier/competitive-verifier);
+-   💡 Contributor of [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/);
 -   :seedling: A high school student in @CYEZOI;
 -   :man: Pronouns: he/him;
 -   🌏 <a href="http://alfredoj.natapp1.cc">OnlineJudge (deprecated)</a>;
